@@ -1,1 +1,1 @@
-# ML-for-new-materials-discovery
+# ML for new materials discovery
